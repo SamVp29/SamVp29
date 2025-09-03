@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sam Vera
 
-🎓 **Egresado en Tecnologías de la Información**  
+🎓 **Ingeniero en Tecnologías de la Información**  
 💻 Apasionado por el desarrollo **backend** pero también con experiencia en **frontend**  
 🔍 Me encanta investigar, entender cómo funcionan las cosas y encontrar soluciones
 
@@ -35,8 +35,8 @@ Proyecto desarrollado como trabajo de titulación para optimizar la alimentació
 ---
 
 ## 📫 Conecta conmigo
-- 📧 **Email:** tuemail@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+- 📧 **Email:** vera29sam@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/samuel-vera-pozo-535a29376)
 
 ---
 
