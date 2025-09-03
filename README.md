@@ -36,7 +36,7 @@ Proyecto desarrollado como trabajo de titulación para optimizar la alimentació
 
 ## 📫 Conecta conmigo
 - 📧 **Email:** vera29sam@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/samuel-vera-pozo-535a29376)
+- 💼 [LinkedIn] www.linkedin.com/in/samuel-vera-pozo-535a29376
 
 ---
 
