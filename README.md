@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Proyecto Destacado
+## 📌 Proyectos Destacados
 ### 🦐 Sistema de Monitoreo y Gestión de Alimentación de Larvas de Camarón
 Proyecto desarrollado como trabajo de titulación para optimizar la alimentación y el monitoreo en acuicultura.  
 **Stack:** Angular, Node.js, Express, MySQL.
@@ -26,6 +26,8 @@ Proyecto desarrollado como trabajo de titulación para optimizar la alimentació
 
 📂 [Ver repositorio](https://github.com/tuusuario/tu-repo)
 
+### Biblioteca de manuales para motocicletas
+Proyecto 
 ---
 
 ## 📈 Estadísticas
