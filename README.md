@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Samuel Vera
+# 👋 ¡Hola! Soy
 
 ![Banner](f1882c98-3218-4098-b650-f5618fbc2b20.png)
 
