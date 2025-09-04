@@ -32,10 +32,9 @@ Proyecto desarrollado como trabajo de titulación para optimizar la alimentació
 Proyecto 
 
 ### Jaapman
-
 Proyecto desarrollado como trabajo de vinculación a la sociedad. Colaboré en la migración del sistema de escritorio a web, desarrollando principalmente el módulo de reportes.
----
 
+---
 ## 📈 Estadísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamVp29&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamVp29&layout=compact&theme=tokyonight)
