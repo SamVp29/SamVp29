@@ -1,4 +1,6 @@
-# 👋 ¡Hola! Soy Sam Vera
+# 👋 ¡Hola! Soy Samuel Vera
+
+![Banner](assets/f1882c98-3218-4098-b650-f5618fbc2b20.png.png)
 
 🎓 **Ingeniero en Tecnologías de la Información**  
 💻 Apasionado por el desarrollo **backend** pero también con experiencia en **frontend**  
