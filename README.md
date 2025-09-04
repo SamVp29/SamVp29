@@ -30,6 +30,9 @@ Proyecto desarrollado como trabajo de titulación para optimizar la alimentació
 
 ### Biblioteca de manuales para motocicletas
 Proyecto 
+
+### Jaapman
+Proyecto desarrollado como trabajo de vinculación a la sociedad, migración de sistema de escritorio a web, mi participación fue de colaborador estando a cargo del modulo de reportes.
 ---
 
 ## 📈 Estadísticas
