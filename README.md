@@ -32,6 +32,7 @@ Proyecto desarrollado como trabajo de titulación para optimizar la alimentació
 Proyecto 
 
 ### Jaapman
+
 Proyecto desarrollado como trabajo de vinculación a la sociedad. Colaboré en la migración del sistema de escritorio a web, desarrollando principalmente el módulo de reportes.
 ---
 
