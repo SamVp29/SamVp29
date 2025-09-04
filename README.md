@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy
 
-![Banner](f1882c98-3218-4098-b650-f5618fbc2b20.png)
+![Banner](https://raw.githubusercontent.com/SamVp29/SamVp29/main/f1882c98-3218-4098-b650-f5618fbc2b20.png)
 
 🎓 **Ingeniero en Tecnologías de la Información**  
 💻 Apasionado por el desarrollo **backend** pero también con experiencia en **frontend**  
@@ -26,18 +26,18 @@ Proyecto desarrollado como trabajo de titulación para optimizar la alimentació
 - Monitoreo de parámetros críticos (temperatura, mortalidad, estrés).
 - Planes alimenticios y reportes PDF.
 
-📂 [Ver repositorio](https://github.com/tuusuario/tu-repo)
+📂 [Ver repositorio](https://github.com/SamVp29/tu-repo)
 
 ### Biblioteca de manuales para motocicletas
 Proyecto 
 
 ### Jaapman
-Proyecto desarrollado como trabajo de vinculación a la sociedad, migración de sistema de escritorio a web, mi participación fue de colaborador estando a cargo del modulo de reportes.
+Proyecto desarrollado como trabajo de vinculación a la sociedad. Colaboré en la migración del sistema de escritorio a web, desarrollando principalmente el módulo de reportes.
 ---
 
 ## 📈 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamVp29&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamVp29&layout=compact&theme=tokyonight)
 
 ---
 
