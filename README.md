@@ -9,10 +9,10 @@
 ---
 
 ## 🚀 Tecnologías y Herramientas
-- **Frontend:** Angular, JavaScript, TypeScript, HTML, CSS
-- **Backend:** Node.js, Express, .NET, PHP, Java
-- **Bases de Datos:** MySQL, MariaDB, SQL Server
-- **Otros:** Git, GitHub, REST API, Postman
+- ⚡ **Frontend:** Angular, JavaScript, TypeScript, HTML, CSS  
+- ⚡ **Backend:** Node.js, Express, .NET, PHP, Java  
+- 🗄️ **Bases de Datos:** MySQL, MariaDB, SQL Server  
+- 🔧 **Otros:** Git, GitHub, REST API, Postman
 
 ---
 
