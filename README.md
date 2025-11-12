@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy
 
-![Banner](https://raw.githubusercontent.com/SamVp29/SamVp29/main/f1882c98-3218-4098-b650-f5618fbc2b20.png)
-
 🎓 **Ingeniero en Tecnologías de la Información**  
 💻 Apasionado por el desarrollo **backend** pero también con experiencia en **frontend**  
 🔍 Me encanta investigar, entender cómo funcionan las cosas y encontrar soluciones
