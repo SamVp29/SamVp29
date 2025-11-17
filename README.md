@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy
 
 🎓 **Ingeniero en Tecnologías de la Información**  
-💻 Apasionado por el desarrollo *FullStack*  
+💻 Apasionado por el desarrollo / **FullStack**  
 🔍 Me encanta investigar, entender cómo funcionan las cosas y encontrar soluciones
 
 ---
